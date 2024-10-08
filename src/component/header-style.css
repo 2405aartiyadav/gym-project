@@ -1,0 +1,18 @@
+nav{
+    background-color: #a287d3;
+}
+.nav_heading{
+    font-family: 'Rubik Bubbles';
+    font-size: 28px;
+}
+
+.nav_elements{
+    font-family: 'Preahvihear';
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.register{
+    margin-right: 90px;
+}

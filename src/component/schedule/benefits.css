@@ -1,0 +1,38 @@
+.Benefits{
+    background: rgb(186,206,209);
+    background: linear-gradient(90deg, rgba(186,206,209,1) 7%, rgba(104,107,205,1) 67%);
+    height: 200px;
+    width: 80%;
+    border:2px ;
+    border-radius: 10px;
+    margin:auto;
+    padding: 10px;
+    position: relative;
+    display: flex;
+    
+   
+}
+.imgcontainer >img{
+    height: 60px;
+    /* width: 60px; */
+    background-color:white;
+    border-radius: 7px;
+    margin-right:10px;
+
+}
+.benefit {
+    position: absolute;
+    display:flex; 
+    top:33.3%;
+    width: 380px;
+    margin-left: 10px;
+    line-height: 14px; 
+}
+.t2{
+    margin-left: 33.33%;
+
+}
+.t3{
+    margin-left: 66.66%;
+
+}

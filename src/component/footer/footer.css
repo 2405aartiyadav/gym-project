@@ -1,0 +1,35 @@
+
+.FooterPage{
+position: relative;
+
+border:1px solid white;
+}
+.container{
+    position: absolute;
+    display:flex;
+    justify-content: space-around;
+}
+.first{
+    width: 450px;
+    display: flex;
+    
+}
+.first>img{
+    width:40px;
+    height:40px;
+    margin-top: 3px;
+}
+
+.second{
+    width: 300px;
+}
+
+.third{
+    width: 300px;
+}
+
+
+.content>h5{
+    margin-top: 8px;
+    
+}
